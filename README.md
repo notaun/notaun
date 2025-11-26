@@ -10,7 +10,7 @@ I have worked on few diverse set of projects and have a solid foundation in syst
   Bot Framework for Discord + Twitch which supports multiple plugable modules
 
 - 🌱 I’m currently learning:\
-  ASCII
+  ASCII,
   C/C++
 
 <!--
